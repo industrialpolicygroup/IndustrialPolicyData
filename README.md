@@ -22,3 +22,12 @@ The dataset `data/JLOP_2025` contains 47,283 observations that are used througho
 | MeasureType | In-House Policy instrument classification by GTA	|
 | firm_specific | =1 if the policy is directed to specific firms (Opposite to national policies in the draft)	|
 | ImplementationLevel | Implementation level of the policy	|
+| same_year_published | =1 if the policy was recorded by GTA  in the same year that they were announced |
+
+## Note on Time Series
+
+To produce the time series in the paper, we follow GTA guidance and use only policies recorded by the GTA in the same year that they were announced for this exercise. This is due to the substantial backfilling of data which is a living dataset. By using only policies recorded in the same years as they were announced, we ensure the comparability of data across both more distant and recent years.
+
+To produce any analysis that follows a time series the database has to be filtered to keep only the observations for which `same_year_published == 1`. 
+
+
