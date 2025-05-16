@@ -6,7 +6,7 @@ The main file used in our analysis contains information at the "Measure" or "Int
 
 ## Data Description
 
-The dataset `data/JLOP_2025` contains 47,283 observations that can be used to replicate the descriptives table G.3. In the appendix of he working paper from May 2025. The Data contains the following variable.
+The dataset `data/JLOP_2025` contains 47,283 observations that are used throughout the analysis of `Measuring Industrial Policy: A Text-Based Approach (2025)`. This specific version of the data can be used to replicate the descriptives table G.3. In the appendix of he working paper from May 2025. The Data contains the following variable.
 
 
 | Variable | label | 
