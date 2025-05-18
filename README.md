@@ -1,5 +1,5 @@
 # MeasuringIndustrialPolicy_MainDataset_Public
-In this repo you can find the main dataset for the replication in Juhász, Réka and Lane, Nathaniel and Oehlsen, Emily and Pérez, Verónica C., Measuring Industrial Policy: A Text-Based Approach (2025). This work was possible thanks to the Global Trade Alert (GTA) dataset, which was kindly shared with us by their team. We especially thank Johannes Fritz for helpful discussions about the GTA project.
+In this repo you can find the main dataset for the replication in Juhász, Réka and Lane, Nathaniel and Oehlsen, Emily and Pérez, Verónica C., Measuring Industrial Policy: A Text-Based Approach (2025). We gratefully acknowledge the use of the Global Trade Alert (GTA) dataset, kindly shared with us by the GTA team. We are particularly thankful to Johannes Fritz for helpful discussions about the GTA project.
 
 The main file used in our analysis contains information at the "Measure" or "Intervention" level, we transform this dataset in multiple ways to obtain the desired figures and tables in our main text and appendix. If you have more questions regarding specific tables or figures please reachout to authors.
 
