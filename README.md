@@ -14,6 +14,7 @@ The dataset `data/JLOP_2025` contains 47,283 observations that are used througho
 | CountryImposing_cleaned | Name of country/ies deploying policy	|
 | AnnouncedYear | 	Year the policy was announced	|
 | MeasureID | 	Unique ID for each policy	|
+| StateActTitle | Title of the State Act that implemented the measure/interventon. One State Act may contain multiple interventions |
 | D_IP_bert_3 | 	=1 if labelled IP by BERT 3 class model; 0 otherwise	|
 | D_OTHER_INTENTION_bert_3 | =1 if labelled Other Intention by BERT 3 class model; 0 otherwise	|
 | D_NOT_ENOUGH_INFO_bert_3 | =1 if labelled Not Enough Information by BERT 3 class model; 0 otherwise	|
