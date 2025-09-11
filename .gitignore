@@ -2,3 +2,5 @@
 *checkpoint*
 data/7_country_year_HS2_RCA_IP.dta
 data/8_country_year_HS6_RCA_IP.dta
+code/format_entities_data.do
+.stswp
